@@ -14,12 +14,12 @@
 				}],
 				"border": [{
 					"color": { "solid": { "color": "#808080"}},
-					"show": true,
+					"show": false,
 					"radius": 0
 				}],
 				"title": [{
 					"show": true,
-					"fontColor": { "solid": { "color": "#000000" } },
+					"fontColor": { "solid": { "color": "#595959" } },
 					"background": { "solid": { "color": "#FFFFFF" } },
 					"alignment": "center"
 				}],
@@ -28,27 +28,27 @@
 					"target": 101
 				}],
 				"dataPoint": [{
-					"fill": { "solid": { "color": "#01B8AA"}},
-					"target": { "solid": { "color": "#FFB8DD"}}
+					"fill": { "solid": { "color": "#008080"}},
+					"target": { "solid": { "color": "#595959"}}
 				}],
 				"labels": [{
 					"show": true,
-					"color": { "solid": { "color": "#EEEEEE"}},
+					"color": { "solid": { "color": "#008080"}},
 					"labelDisplayUnits": "0",
 					"labelPrecision": 1,
 					"fontSize": 11,
-					"fontFamily": "Courier New"
+					"fontFamily": "Montserrat"
 				}],	
 				"target": [{
 					"show": true,
-					"color": { "solid": { "color": "#EEEEEE"}},
+					"color": { "solid": { "color": "#595959"}},
 					"labelDisplayUnits": "0",
 					"labelPrecision": 1,
 					"fontSize": 11,
-					"fontFamily": "Courier New"
+					"fontFamily": "Montserrat"
 				}],
 				"calloutValue": [{
-					"show": true,
+					"show": false,
 					"color": { "solid": { "color": "#EEEEEE"}},
 					"labelDisplayUnits": "0",
 					"labelPrecision": 1
